@@ -14,4 +14,20 @@
 * [IBM Less 专题](https://www.ibm.com/developerworks/cn/web/1207_zhaoch_lesscss/)
 * [BootCss Less](http://www.bootcss.com/p/lesscss/)
 * [BootCss Less 2](http://less.bootcss.com/)
+* ---
+* ---
+* [Koala 编译工具](http://koala-app.com/index-zh.html)
 
+#### 安装(Npm)
+```bash
+npm i less -g
+```
+
+#### 命令行使用
+```bash
+# 当上面的 less 全局安装后，可使用 lessc 来编辑 .less 文件
+lessc a.less a.css
+```
+
+#### 严格模式
+* 在 less 中开启严格模式后，数字计算需要用 括号包裹、单位计算会受到严格限制等
