@@ -41,7 +41,7 @@ h3 {
 }
 ```
 
-#### mixins
+#### mixin
 ```less
 .border {
   border: 1px solid #fff;
@@ -52,7 +52,7 @@ div {
 }
 ```
 
-#### mixins 带参(多个同名的类是被允许的，当然，参数要不一样)
+#### mixin 带参(多个同名的类是被允许的，当然，参数要不一样)
 ```less
 .border (@borderSize: 1px) {
   border: @borderSize solid #fff;
@@ -71,13 +71,57 @@ p {
 }
 ```
 
-
-
-
-
+#### 嵌套媒体查询
 ```less
+.bar {
+  @media (min-width: 400px) and (max-width: 800px) {
+    color: #fff;
+    @media print {
+      font-size: 18px;
+    }
+  }
+}
+// ==> 
+@media (min-width: 400px) and (max-width: 800px) {
+  .bar {
+    color: #fff;
+  }
+}
+@media (min-width: 400px) and (max-width: 800px) and print {
+  .bar {
+      font-size: 18px;
+  }
+}
+    
 ```
+
+#### 命名空间
 ```less
+#space {
+  .color {
+    color: #fff;
+  }
+  
+}
+
+div {
+  #space > .color;
+}
 ```
+
+#### 字符串插值
 ```less
+// 还记得 ES6 是怎么快速处理字符串与变量之前的关系的？
+// let str = 'foo'; let bar = `${str}`
+@src: 'asset/src/';
+div {
+  background-image: url("@{src}/bg.png");
+}
+```
+
+#### JavaScript求值(慎用)
+```less
+@str: "hello";
+@var: ~`"@{str}".toUpperCase() + '!'`;
+@var: "HELLO!";
 ```
