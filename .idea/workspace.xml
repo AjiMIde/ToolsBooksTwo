@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6c0f120-0471-40f5-9b6f-4957c5635e2b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Less/funciton.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Less/_less.md" afterPath="$PROJECT_DIR$/Less/_less.md" />
-      <change beforePath="$PROJECT_DIR$/Less/grammar.md" afterPath="$PROJECT_DIR$/Less/grammar.md" />
-      <change beforePath="$PROJECT_DIR$/Less/special.md" afterPath="$PROJECT_DIR$/Less/special.md" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
+      <change afterPath="$PROJECT_DIR$/Styles/0.Beautify-scroll-bar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/less/a.less" beforeDir="false" afterPath="$PROJECT_DIR$/test/less/a.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,119 +25,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="78">
-                <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="funciton.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Less/funciton.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-                <folding>
-                  <marker date="1526013952544" expanded="true" signature="348:487" ph="{...}" />
-                  <marker date="1526013952544" expanded="true" signature="422:483" ph="data:image/jpeg" />
-                  <marker date="1526013952544" expanded="true" signature="533:612" ph="{...}" />
-                  <marker date="1526013952544" expanded="true" signature="682:808" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_less.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Less/_less.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="208">
-                <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grammar.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Less/grammar.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="676">
-                <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-                <folding>
-                  <element signature="e#16#151#0" expanded="false" />
-                  <element signature="e#161#250#0" expanded="false" />
-                  <element signature="e#270#401#0" expanded="false" />
-                  <element signature="e#414#514#0" expanded="false" />
-                  <element signature="e#553#772#0" expanded="false" />
-                  <element signature="e#786#1123#0" expanded="false" />
-                  <element signature="e#1135#1220#0" expanded="false" />
-                  <element signature="e#1233#1385#0" expanded="false" />
-                  <element signature="e#1409#1490#0" expanded="false" />
-                  <marker date="1526010550387" expanded="true" signature="84:147" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="174:246" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="182:244" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="191:240" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="202:234" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="298:329" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="333:363" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="367:397" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="430:491" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="496:510" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="588:625" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="662:716" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="722:741" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="744:768" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="799:924" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="852:922" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="888:918" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="982:1015" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="991:1013" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="1075:1114" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="1084:1112" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="1150:1188" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="1161:1183" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="1194:1216" ph="{...}" />
-                  <marker date="1526010550387" expanded="true" signature="1336:1381" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="special.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Less/special.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="416">
-                <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-                <folding>
-                  <element signature="e#45#377#0" expanded="false" />
-                  <element signature="e#395#620#0" expanded="false" />
-                  <element signature="e#651#845#0" expanded="false" />
-                  <element signature="e#847#1032#0" expanded="false" />
-                  <element signature="e#1076#1240#0" expanded="false" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,13 +40,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/less/a.less" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Less/grammar.md" />
         <option value="$PROJECT_DIR$/Less/_less.md" />
         <option value="$PROJECT_DIR$/Less/special.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/Less/funciton.md" />
+        <option value="$PROJECT_DIR$/test/less/a.less" />
+        <option value="$PROJECT_DIR$/RequireJs/_require.js.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Styles/0.Beautify-scroller.md" />
+        <option value="$PROJECT_DIR$/Styles/0.Beautify-scroll-bar.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
   </component>
@@ -169,27 +60,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-219" />
-    <option name="y" value="262" />
-    <option name="width" value="1873" />
-    <option name="height" value="1036" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-15" />
+    <option name="y" value="15" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -203,48 +87,36 @@
             <path>
               <item name="ToolsBooksTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToolsBooksTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Less" type="462c0819:PsiDirectoryNode" />
+              <item name="RequireJs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ToolsBooksTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToolsBooksTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ToolsBooksTwo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToolsBooksTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ToolsBooksTwo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToolsBooksTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="less" type="462c0819:PsiDirectoryNode" />
-              <item name="a.less" type="620a8d5e:NestingTreeNode" />
+              <item name="Styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/less" />
-    <property name="list.type.of.created.stylesheet" value="Less" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="H:/Git/Repository/react-demo" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\GitHub\ToolsBooksTwo\Less" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitHub\ToolsBooksTwo\Styles" />
+      <recent name="H:\GitHub\ToolsBooksTwo\RequireJs" />
       <recent name="F:\GitHub\ToolsBooksTwo\Less" />
     </key>
   </component>
@@ -260,9 +132,6 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -275,35 +144,52 @@
       <updated>1525870796541</updated>
       <workItem from="1525870798704" duration="541000" />
       <workItem from="1525915339193" duration="8372000" />
-      <workItem from="1526004310653" duration="10765000" />
+      <workItem from="1526004310653" duration="11468000" />
+      <workItem from="1526263918367" duration="615000" />
+      <workItem from="1526433927621" duration="1668000" />
+      <workItem from="1531809065367" duration="1957000" />
+      <workItem from="1533540349931" duration="6603000" />
+      <workItem from="1538391079457" duration="621000" />
+      <workItem from="1539053506050" duration="619000" />
+      <workItem from="1539163897010" duration="4000" />
+      <workItem from="1539671957565" duration="2848000" />
+      <workItem from="1539914026189" duration="629000" />
+      <workItem from="1540174112412" duration="750000" />
+      <workItem from="1540180209721" duration="598000" />
+      <workItem from="1540256928967" duration="1203000" />
+      <workItem from="1540351665674" duration="1230000" />
+      <workItem from="1540523313449" duration="1000" />
+      <workItem from="1541388437094" duration="1454000" />
+      <workItem from="1541468026380" duration="1253000" />
+      <workItem from="1546757108765" duration="617000" />
+      <workItem from="1547533204672" duration="2022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19678000" />
+    <option name="totallyTimeSpent" value="45073000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-15" y="15" width="1936" height="1066" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17071882" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3403315" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="92" y="92" width="1736" height="866" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12896407" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3403315" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32928178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" x="92" y="92" width="1736" height="866" id="Documentation" order="3" type="FLOATING" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,158 +198,52 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Less/_less.md">
+    <entry file="file://$PROJECT_DIR$/RequireJs/_require.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="520">
-            <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-            <folding />
+          <first_editor relative-caret-position="182">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Less/grammar.md">
+    <entry file="file://$PROJECT_DIR$/RequireJs/_require.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1924">
-            <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-            <folding>
-              <element signature="e#16#151#0" expanded="false" />
-              <element signature="e#161#250#0" expanded="false" />
-              <element signature="e#270#401#0" expanded="false" />
-              <element signature="e#414#514#0" expanded="false" />
-              <element signature="e#553#772#0" expanded="false" />
-              <element signature="e#786#1123#0" expanded="false" />
-              <element signature="e#1135#1220#0" expanded="false" />
-              <element signature="e#1233#1385#0" expanded="false" />
-              <element signature="e#1409#1490#0" expanded="false" />
-              <marker date="1526010550387" expanded="true" signature="84:147" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="174:246" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="182:244" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="191:240" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="202:234" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="298:329" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="333:363" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="367:397" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="430:491" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="496:510" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="588:625" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="662:716" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="722:741" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="744:768" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="799:924" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="852:922" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="888:918" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="982:1015" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="991:1013" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1075:1114" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1084:1112" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1150:1188" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1161:1183" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1194:1216" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1336:1381" ph="{...}" />
-            </folding>
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="182">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Less/special.md">
+    <entry file="file://$PROJECT_DIR$/RequireJs/_require.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="442">
-            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-            <folding>
-              <element signature="e#45#377#0" expanded="false" />
-              <element signature="e#395#620#0" expanded="false" />
-              <element signature="e#651#845#0" expanded="false" />
-              <element signature="e#847#1032#0" expanded="false" />
-              <element signature="e#1076#1240#0" expanded="false" />
-            </folding>
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="182">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/less/a.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/RequireJs/_require.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="182">
+            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/less/a.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/less/a.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Less/special.md">
+    <entry file="file://$PROJECT_DIR$/RequireJs/_require.js.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="416">
-            <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-            <folding>
-              <element signature="e#45#377#0" expanded="false" />
-              <element signature="e#395#620#0" expanded="false" />
-              <element signature="e#651#845#0" expanded="false" />
-              <element signature="e#847#1032#0" expanded="false" />
-              <element signature="e#1076#1240#0" expanded="false" />
-            </folding>
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="156">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
@@ -473,8 +253,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="78">
-            <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            <folding />
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           </first_editor>
           <second_editor />
         </state>
@@ -483,14 +262,72 @@
     <entry file="file://$PROJECT_DIR$/Less/funciton.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="520">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/_less.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="234">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/less/a.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/grammar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="676">
+            <caret line="120" selection-start-line="120" selection-end-line="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="416">
-            <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-            <folding>
-              <marker date="1526013952544" expanded="true" signature="348:487" ph="{...}" />
-              <marker date="1526013952544" expanded="true" signature="422:483" ph="data:image/jpeg" />
-              <marker date="1526013952544" expanded="true" signature="533:612" ph="{...}" />
-              <marker date="1526013952544" expanded="true" signature="682:808" ph="{...}" />
-            </folding>
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/less/a.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/funciton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="520">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -500,43 +337,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="676">
-            <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-            <folding>
-              <element signature="e#16#151#0" expanded="false" />
-              <element signature="e#161#250#0" expanded="false" />
-              <element signature="e#270#401#0" expanded="false" />
-              <element signature="e#414#514#0" expanded="false" />
-              <element signature="e#553#772#0" expanded="false" />
-              <element signature="e#786#1123#0" expanded="false" />
-              <element signature="e#1135#1220#0" expanded="false" />
-              <element signature="e#1233#1385#0" expanded="false" />
-              <element signature="e#1409#1490#0" expanded="false" />
-              <marker date="1526010550387" expanded="true" signature="84:147" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="174:246" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="182:244" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="191:240" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="202:234" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="298:329" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="333:363" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="367:397" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="430:491" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="496:510" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="588:625" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="662:716" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="722:741" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="744:768" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="799:924" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="852:922" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="888:918" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="982:1015" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="991:1013" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1075:1114" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1084:1112" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1150:1188" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1161:1183" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1194:1216" ph="{...}" />
-              <marker date="1526010550387" expanded="true" signature="1336:1381" ph="{...}" />
-            </folding>
+            <caret line="120" selection-start-line="120" selection-end-line="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
           </first_editor>
           <second_editor />
         </state>
@@ -545,9 +356,276 @@
     <entry file="file://$PROJECT_DIR$/Less/_less.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="208">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="364">
+            <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/funciton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="520">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/_less.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="182">
+            <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/grammar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="676">
+            <caret line="120" selection-start-line="120" selection-end-line="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/funciton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="520">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/_less.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="182">
+            <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/grammar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="676">
+            <caret line="120" selection-start-line="120" selection-end-line="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="104">
+            <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/_less.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="520">
+            <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/grammar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1924">
+            <caret line="74" selection-start-line="74" selection-end-line="74" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/less/a.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/special.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/grammar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="676">
+            <caret line="120" selection-start-line="120" selection-end-line="120" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/_less.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="234">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Less/funciton.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="520">
+            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/less/a.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/less/a.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RequireJs/_require.js.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="182">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Styles/0.Beautify-scroll-bar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <folding>
+              <element signature="e#310#387#0" />
+              <element signature="e#429#469#0" />
+              <element signature="e#506#543#0" />
+              <element signature="e#585#665#0" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
