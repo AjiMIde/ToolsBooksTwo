@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <script src="../../node_modules/ejs/ejs.min.js"></script>
+</head>
+<body>
+<script>
+let people = ['geddy', 'neil', 'alex'];
+let html = ejs.render('<%= people.join(", "); %>', { people: people });
+let random = Math.floor(Math.random() * 10)
+html = ejs.render(
+  `<% if (random > 5) { %>
+    <div><%= random + ' is bigger than 5' %> </div>
+  <% } else { %>
+    <div><%= random + ' is small than 6' %></div>
+  <% } %>
+  `, { random: random}
+)
+
+
+console.log(html)
+</script>
+
+</body>
+</html>
