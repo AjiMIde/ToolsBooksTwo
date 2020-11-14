@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6c0f120-0471-40f5-9b6f-4957c5635e2b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Ejs/0.start.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejs/example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejs/example/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejs/0.start.md" beforeDir="false" afterPath="$PROJECT_DIR$/Ejs/0.start.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,57 +24,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="27">
+                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="216">
-                <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+                <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
               </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0.start.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ejs/0.start.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="307">
-                <caret line="44" selection-start-line="44" selection-end-line="44" />
-                <folding>
-                  <element signature="e#372#490#0" />
-                  <element signature="e#521#640#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ejs/example/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ejs/example/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temp.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -110,7 +74,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Styles/0.Beautify-scroller.md" />
         <option value="$PROJECT_DIR$/Styles/0.Beautify-scroll-bar.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/Code/Http-Normal-Js.md" />
         <option value="$PROJECT_DIR$/Code/test1.js" />
         <option value="$PROJECT_DIR$/Code/test2.js" />
@@ -119,6 +82,7 @@
         <option value="$PROJECT_DIR$/Ejs/index.js" />
         <option value="$PROJECT_DIR$/Ejs/example/index.html" />
         <option value="$PROJECT_DIR$/Ejs/0.start.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
   </component>
@@ -136,11 +100,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="261" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="197" />
+    <option name="y" value="36" />
     <option name="width" value="1687" />
-    <option name="height" value="987" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -150,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,21 +121,11 @@
               <item name="ToolsBooksTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="ToolsBooksTwo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ToolsBooksTwo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToolsBooksTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Ejs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ToolsBooksTwo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ToolsBooksTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Ejs" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,25 +199,28 @@
       <workItem from="1553691813785" duration="10000" />
       <workItem from="1583377343593" duration="3867000" />
       <workItem from="1595386440064" duration="607000" />
-      <workItem from="1596771361414" duration="4313000" />
+      <workItem from="1596771361414" duration="5178000" />
+      <workItem from="1597022617759" duration="1869000" />
+      <workItem from="1597580554298" duration="15000" />
+      <workItem from="1598321970997" duration="215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53877000" />
+    <option name="totallyTimeSpent" value="56841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="261" width="1687" height="987" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14850883" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12843552" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3403315" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32928178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.25970873" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23698781" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -657,16 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Styles/0.Beautify-scroll-bar.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -678,13 +624,37 @@
     <entry file="file://$PROJECT_DIR$/Code/test2.js" />
     <entry file="file://$PROJECT_DIR$/Code/test1.js" />
     <entry file="file://$PROJECT_DIR$/Code/Http-Normal-Js.md" />
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejs/0.start.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="33">
+            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejs/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ejs/example/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -696,39 +666,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ejs/example/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ejs/example/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ejs/0.start.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="307">
-            <caret line="44" selection-start-line="44" selection-end-line="44" />
-            <folding>
-              <element signature="e#372#490#0" />
-              <element signature="e#521#640#0" />
-            </folding>
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
